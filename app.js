@@ -7,7 +7,7 @@ app.use(express.urlencoded({ extended:false }))
 
 //defining routes
 app.get('/', (req, res) => {
-    res.render('demo.ejs', { name: 'Kumar Sushobhan'})
+    res.render('demo.ejs', { name: 'Anjana'})
 })
 app.post('/', async (req, res) => {
     try{

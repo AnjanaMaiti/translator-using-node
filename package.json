@@ -6,7 +6,7 @@
   "scripts": {
     "demo1": "nodemon app.js"
   },
-  "author": "Kumar Sushobhan",
+  "author": "Anjana",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
